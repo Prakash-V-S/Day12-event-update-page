@@ -50,8 +50,12 @@
 
 <p align="left">Given Task Screen Shot</p>
 
+<img align="left" src="https://github.com/Prakash-V-S/color-Swapper/assets/141955456/11f720e5-b1b2-4825-bf9a-b8cc91fe3af1"  />
+
 ###
 
 <p align="left">Output Screen Shot</p>
+
+<img align="left" src="https://github.com/Prakash-V-S/color-Swapper/assets/141955456/89a4ae36-3dfe-4471-91d2-57d965d1fbad"  />
 
 ###
